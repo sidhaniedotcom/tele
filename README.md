@@ -36,7 +36,7 @@
 
 `$ git clone https://github.com/sidhaniedotcom/tele`
 
-`$ cd Telegram-Scraper-Adder`
+`$ cd tele`
 
 * Install requierments & Setup Configuration File. ( apiID, apiHash )
 
