@@ -50,8 +50,6 @@
 
 `$ python Adder.py`
 
-## • Watch Video Tutorial From Below
-* https://youtu.be/hNztfzMMPOc
 ---
 
 <p align="center">
